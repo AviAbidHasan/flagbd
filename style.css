@@ -1,0 +1,22 @@
+.c1{
+	width: 1000px;
+	height: 600px;
+	border: 1px solid;
+	margin: auto;
+	background: green;
+	display: flex;
+
+}
+.sub1{
+	width: 250px;
+	height: 250px;
+	margin: auto;
+	background: red;
+	border-radius: 50%;
+	display: flex;
+}
+.sub1 img{
+	width: 200px;
+	height:200px ;
+	margin: auto;
+}
